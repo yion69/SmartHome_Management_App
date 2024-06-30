@@ -1,5 +1,4 @@
 # SmartHome_Management_App
-This is developed as a school project 
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
