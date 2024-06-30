@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-- The application is created for school project.
+- The application is created as a school project.
 - I had to rush this app within 5 days lmao
 
 ### Built With
